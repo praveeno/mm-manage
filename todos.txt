@@ -1,0 +1,11 @@
+// TODO
+creating a money management app, scanning all sms and email for transactions
+focus on user privacy and secutiry of there data
+below are some points I'll planning to implement in futter
+
+1. ask user to either use local check or AI generative power
+2. ask user to select the sms and sent it to AI to create a template for regex  
+3. Clearly explain to users why you need access to their SMS and email data.
+4.Secure Authentication:
+5.user can come and do Regular Security Audits:
+6. Local Data Storage if user prefer
